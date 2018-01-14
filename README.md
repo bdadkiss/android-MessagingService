@@ -57,7 +57,7 @@ Pre-requisites
 Screenshots
 -------------
 
-<img src="screenshots/1-main.png" height="400" alt="Screenshot"/> <img src="screenshots/2-onemessage.png" height="400" alt="Screenshot"/> <img src="screenshots/3-threemessages.png" height="400" alt="Screenshot"/> 
+<img src="screenshots/1-main.png" height="400" alt="Screenshot"/> <img src="screenshots/2-onemessage.png" height="400" alt="Screenshot"/> <img src="screenshots/2-threemessages.png" height="400" alt="Screenshot"/> 
 
 Getting Started
 ---------------
